@@ -2,12 +2,6 @@
 #include <iostream>
 using namespace std;
 typedef long long ll;
-typedef vector<int> vi;
-typedef pair<int, int> pi;
-#define F first
-#define S second
-#define PB push_back
-#define MP make_pair
 #define REP(i, n) for (int i = 0; i < int(n); ++i)
 
 const int N = (int)1e2 + 100;
