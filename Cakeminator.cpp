@@ -4,10 +4,6 @@ using namespace std;
 typedef long long ll;
 typedef vector<int> vi;
 typedef pair<int, int> pi;
-#define F first
-#define S second
-#define PB push_back
-#define MP make_pair
 #define forn(i, n) for (int i = 0; i < int(n); i++)
 
 // freopen('input.txt', 'r', stdin);
